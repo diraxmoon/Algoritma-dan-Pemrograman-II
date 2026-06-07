@@ -9,7 +9,10 @@ anything = input("Tell me anything...")
 print("Hmm...", anything,"...Really?")
 
 
-
+#3
+anything = (input("Enter a Number :"))
+something = anything ** 2.0
+print(anything, "to the power of 2 is ", something)
 
 
 #4
